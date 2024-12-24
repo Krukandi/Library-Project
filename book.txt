@@ -1,0 +1,8 @@
+1234,    core python,           jack,           lisa,     programing,  7
+5678,         ikigai,         hector,     hutchinson,      self help,  5 
+9012,  atomic habits,    james clear,penguin radom house,      self help,  6 
+3456,          heidi,  johanna spyri,simon and schuster,          novel,  4 
+7890,        dracula,   bram stroker,archibald company,         horror,  9 
+2222,      i can win,    Shiva Khera,         Willay,   Motivational, 15 
+3333,Rich dad Poor Dad,        Vinutha,         Willay,        Finance, 20 
+3823,         kaizen,         keshav,   nandeeshwara,Business managment,1

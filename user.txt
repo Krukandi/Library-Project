@@ -1,0 +1,5 @@
+
+kruthika,       @k@,  1234567890,  banglore
+goumathi,       @g@,  1357924680,    mumbai
+gokul,       @o@,  1245780135,    punjab
+swasthika,       @s@,  0987654321,   bellary
